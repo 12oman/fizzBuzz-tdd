@@ -1,0 +1,27 @@
+{
+  "name": "fizzbuzz-tdd",
+  "version": "1.0.0",
+  "description": "tdd fizzbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12oman/fizzBuzz-tdd.git"
+  },
+  "keywords": [
+    "learning",
+    "tdd",
+    "testing"
+  ],
+  "author": "Roman Mitch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/12oman/fizzBuzz-tdd/issues"
+  },
+  "homepage": "https://github.com/12oman/fizzBuzz-tdd#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
